@@ -1,0 +1,5 @@
+add(){
+Sydtem.out.println("add function");
+a = b+c;
+print(c);
+}
