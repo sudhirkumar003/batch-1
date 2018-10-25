@@ -1,0 +1,6 @@
+addition(){
+System.out.println("add function");
+a = b+c;
+print(c);
+}
+
